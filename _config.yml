@@ -1,0 +1,11 @@
+# The published copy of CaloBoss's privacy policy. The source of truth is
+# docs/privacy.md in the CaloBoss repository, which is private; this repository
+# exists only because GitHub Pages cannot serve a private repo on a free plan,
+# and the App Store requires a publicly reachable privacy policy URL.
+#
+# Do not edit index.md here. Edit docs/privacy.md in CaloBoss and run
+# scripts/publish-privacy.sh, or the two will disagree about what the app does
+# with people's data.
+title: CaloBoss
+description: Privacy policy for the CaloBoss iOS app.
+theme: jekyll-theme-minimal
