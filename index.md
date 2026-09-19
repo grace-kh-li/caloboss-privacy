@@ -2,6 +2,11 @@
 title: CaloBoss Privacy Policy
 ---
 
+<!-- This is the source of truth. The copy the App Store points at is published
+     at https://grace-kh-li.github.io/caloboss-privacy/ — run
+     scripts/publish-privacy.sh after changing anything here, or the public page
+     will quietly describe an older version of the app. -->
+
 # CaloBoss — Privacy Policy
 
 **Last updated: 15 September 2026**
